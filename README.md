@@ -66,4 +66,6 @@ The dataset contains Diwali sales transactions with the following details:
    git clone https://github.com/your-username/diwali-sales-analysis.git
    cd diwali-sales-analysis
 
-
+2. pip install pandas matplotlib seaborn jupyter
+3.jupyter notebook
+4Open the analysis file and explore results
